@@ -1,3 +1,8 @@
+//Scott Cummings
+//2317991
+//scummings@chapman.edu
+//CPSC 350 -Section 01
+//Assignment 1
 #include <iostream>
 #include <string>
 using namespace std;
